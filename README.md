@@ -2,7 +2,7 @@
   Super Mario Bros
 </h1>
   
-![preview](https://github.com/devbeatriz/site-mario/assets/94017930/5adb02f1-a401-4be0-9d19-5561461ab06c)
+![preview](https://github.com/devbeatriz/site-mario/assets/94017930/cc174b3e-aec7-4d7e-8210-fd342cdf3aa3)
 
 <p align="center"><a href="https://mario-db.vercel.app/">Clique aqui</a> para ver o projeto.</p>
 
